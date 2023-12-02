@@ -1,0 +1,25 @@
+body{
+    overflow-x: hidden;
+}
+.container{
+    /* position: relative; */
+}
+.item-1{
+
+    /* position: absolute;
+    top: -50px;
+    bottom: 0cap;
+    right: -50px;
+    /* left: 0px; */
+    /* z-index: -1; */ 
+/* 
+    position: relative;
+    left: 100px;
+    bottom: 100px; */
+
+    position: fixed;
+}
+.item-5{
+    position: sticky;
+    top: 50px;
+}
